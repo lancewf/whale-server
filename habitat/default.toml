@@ -57,3 +57,6 @@ keepalive_timeout = 60
 
 [money_data_server]
   domain_names = []
+
+[acoustics-whaledisentanglement]
+  domain_names = []
