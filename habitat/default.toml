@@ -60,3 +60,6 @@ keepalive_timeout = 60
 
 [acoustics-whaledisentanglement]
   domain_names = []
+  
+[requestbin]
+  domain_names = []

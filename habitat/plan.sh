@@ -25,6 +25,7 @@ pkg_binds_optional=(
   [west-coast-training-whale-dis]="port local_only"
   [money_data_server]="port local_only"
   [acoustics-whaledisentanglement]="port local_only"
+  [requestbin]="port local_only"
 )
 
 do_build(){
