@@ -30,39 +30,65 @@ keepalive_timeout = 60
 
 [mmsn]
   domain_names = []
+  ssl_certificate = ""
+  ssl_certificate_key = ""
 
 [money-checker-server]
   domain_names = []
+  ssl_certificate = ""
+  ssl_certificate_key = ""
 
 [wiki]
   domain_names = []
+  ssl_certificate = ""
+  ssl_certificate_key = ""
 
 [home-whale-dis]
   domain_names = []
+  ssl_certificate = ""
+  ssl_certificate_key = ""
 
 [hawaii-alaska-whale-dis]
   domain_names = []
+  ssl_certificate = ""
+  ssl_certificate_key = ""
 
 [media-whale-dis]
   domain_names = []
+  ssl_certificate = ""
+  ssl_certificate_key = ""
 
 [west-coast-whale-dis]
   domain_names = []
+  ssl_certificate = ""
+  ssl_certificate_key = ""
 
 [pacific-northwest-whale-dis]
   domain_names = []
+  ssl_certificate = ""
+  ssl_certificate_key = ""
 
 [west-coast-training-whale-dis]
   domain_names = []
+  ssl_certificate = ""
+  ssl_certificate_key = ""
 
 [money_data_server]
   domain_names = []
+  ssl_certificate = ""
+  ssl_certificate_key = ""
 
 [acoustics-whaledisentanglement]
   domain_names = []
+  ssl_certificate = ""
+  ssl_certificate_key = ""
   
 [requestbin]
   domain_names = []
+  ssl_certificate = ""
+  ssl_certificate_key = ""
 
 [phpmyadmin]
   domain_names = []
+  ssl_certificate = ""
+  ssl_certificate_key = ""
