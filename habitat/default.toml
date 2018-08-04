@@ -92,3 +92,8 @@ keepalive_timeout = 60
   domain_names = []
   ssl_certificate = ""
   ssl_certificate_key = ""
+
+[wildbook]
+  domain_names = []
+  ssl_certificate = ""
+  ssl_certificate_key = ""

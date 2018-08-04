@@ -27,6 +27,7 @@ pkg_binds_optional=(
   [acoustics-whaledisentanglement]="port local_only"
   [requestbin]="port local_only"
   [phpmyadmin]="port local_only"
+  [wildbook]="port"
 )
 
 do_build(){
