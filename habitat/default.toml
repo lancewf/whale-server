@@ -73,6 +73,11 @@ keepalive_timeout = 60
   ssl_certificate = ""
   ssl_certificate_key = ""
 
+[east-coast-training-whale-dis]
+  domain_names = []
+  ssl_certificate = ""
+  ssl_certificate_key = ""
+
 [money_data_server]
   domain_names = []
   ssl_certificate = ""
