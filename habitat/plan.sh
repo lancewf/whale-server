@@ -24,6 +24,7 @@ pkg_binds_optional=(
   [pacific-northwest-whale-dis]="port local_only"
   [west-coast-training-whale-dis]="port local_only"
   [east-coast-training-whale-dis]="port local_only"
+  [training-whale-dis]="port local_only"
   [alaska-training-whale-dis]="port local_only"
   [pacific-islands-training-whale-dis]="port local_only"
   [money_data_server]="port local_only"
