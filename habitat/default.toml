@@ -98,6 +98,11 @@ keepalive_timeout = 60
   ssl_certificate = ""
   ssl_certificate_key = ""
 
+[transect_backend]
+  domain_names = []
+  ssl_certificate = ""
+  ssl_certificate_key = ""
+
 [phpmyadmin]
   domain_names = []
   ssl_certificate = ""

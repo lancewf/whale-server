@@ -32,6 +32,7 @@ pkg_binds_optional=(
   [requestbin]="port local_only"
   [phpmyadmin]="port local_only"
   [wildbook]="port"
+  [transect_backend]="port local_only"
 )
 
 do_build(){
